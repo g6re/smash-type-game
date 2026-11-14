@@ -1,0 +1,5 @@
+Ninja [Animated], by Morgan McGuire (morgan3d) and DezrasDragons, 2018/2019.
+Source: https://opengameart.org/content/ninja-animated-0
+Asset: https://opengameart.org/sites/default/files/ninja-black-32x32.png
+License: CC0 / public domain. https://creativecommons.org/publicdomain/zero/1.0/
+Original sprite sheet included unchanged. Animation clips assembled for Godot.

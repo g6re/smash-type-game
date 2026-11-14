@@ -1,0 +1,3 @@
+Recommended Frame Speed:
+- Frame Duration: 60ms
+- Frame Rate: ~16.7 FPS

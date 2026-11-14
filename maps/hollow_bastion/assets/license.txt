@@ -1,0 +1,11 @@
+Model Information:
+* title:	Smash Bros. Ulimate - Hollow Bastion Stage
+* source:	https://sketchfab.com/3d-models/smash-bros-ulimate-hollow-bastion-stage-983a5a23513d4dbab35afad3fe761967
+* author:	Caleb Smores (https://sketchfab.com/calebsmores)
+
+Model License:
+* license type:	CC-BY-NC-4.0 (http://creativecommons.org/licenses/by-nc/4.0/)
+* requirements:	Author must be credited. No commercial use.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Smash Bros. Ulimate - Hollow Bastion Stage" (https://sketchfab.com/3d-models/smash-bros-ulimate-hollow-bastion-stage-983a5a23513d4dbab35afad3fe761967) by Caleb Smores (https://sketchfab.com/calebsmores) licensed under CC-BY-NC-4.0 (http://creativecommons.org/licenses/by-nc/4.0/)

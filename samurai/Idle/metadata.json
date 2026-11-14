@@ -1,0 +1,36 @@
+{
+  "group_id": "0b261470-4f4f-46b8-b856-23284bc8cb3a",
+  "states": [
+    {
+      "character": {
+        "id": "992efd2e-5374-4f95-a760-dc8baaab3e51",
+        "name": "Idle",
+        "prompt": "Samurai girl with katana long hair color red predominate on his clothes",
+        "size": {
+          "width": 64,
+          "height": 64
+        },
+        "template_id": "mannequin",
+        "directions": 8,
+        "view": "low top-down",
+        "created_at": "2026-10-12T19:06:35.047996+00:00"
+      },
+      "folder": "Idle",
+      "frames": {
+        "rotations": {
+          "south": "Idle/rotations/south.png",
+          "south-east": "Idle/rotations/south-east.png",
+          "east": "Idle/rotations/east.png",
+          "north-east": "Idle/rotations/north-east.png",
+          "north": "Idle/rotations/north.png",
+          "north-west": "Idle/rotations/north-west.png",
+          "west": "Idle/rotations/west.png",
+          "south-west": "Idle/rotations/south-west.png"
+        },
+        "animations": {}
+      }
+    }
+  ],
+  "export_version": "3.1",
+  "export_date": "2026-10-12T19:11:09.700635"
+}

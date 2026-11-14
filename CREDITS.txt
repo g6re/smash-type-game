@@ -1,0 +1,34 @@
+Model Information:
+* title:	Grim Reaper Dark Knight Warrior
+* source:	https://sketchfab.com/3d-models/grim-reaper-dark-knight-warrior-6a31ad680aa2441d9e63964fd0a889f7
+* author:	Pigcraft (https://sketchfab.com/s8819296)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Grim Reaper Dark Knight Warrior" (https://sketchfab.com/3d-models/grim-reaper-dark-knight-warrior-6a31ad680aa2441d9e63964fd0a889f7) by Pigcraft (https://sketchfab.com/s8819296) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+Personaje activo: Ninja [Animated] de Morgan McGuire y DezrasDragons, CC0. https://opengameart.org/content/ninja-animated-0
+
+Personaje activo: 8-Directional Iron Knight, Hormelz, BlueKnightUnarmed gratuito, CC0. https://hormelz.itch.io/8-directional-iron-knight
+
+Personaje activo: 8-dir Pixel Rendered Character 01 de Leapopen, versión gratuita. https://leapopen.itch.io/8dirprc01
+
+Box playable character:
+This work is based on "Boxhead Y2K Vibe - Handpainted Character" (https://sketchfab.com/3d-models/boxhead-y2k-vibe-handpainted-character-7e3887bfc7e44c8a9be72b6844a38279) by Hisxkx (https://sketchfab.com/Hisxkx) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/).
+Integration changes: game scale, nearest texture filtering, movement controller and arcane ability effects.
+
+
+Hollow Bastion stage
+Model Information:
+* title:	Smash Bros. Ulimate - Hollow Bastion Stage
+* source:	https://sketchfab.com/3d-models/smash-bros-ulimate-hollow-bastion-stage-983a5a23513d4dbab35afad3fe761967
+* author:	Caleb Smores (https://sketchfab.com/calebsmores)
+
+Model License:
+* license type:	CC-BY-NC-4.0 (http://creativecommons.org/licenses/by-nc/4.0/)
+* requirements:	Author must be credited. No commercial use.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Smash Bros. Ulimate - Hollow Bastion Stage" (https://sketchfab.com/3d-models/smash-bros-ulimate-hollow-bastion-stage-983a5a23513d4dbab35afad3fe761967) by Caleb Smores (https://sketchfab.com/calebsmores) licensed under CC-BY-NC-4.0 (http://creativecommons.org/licenses/by-nc/4.0/)

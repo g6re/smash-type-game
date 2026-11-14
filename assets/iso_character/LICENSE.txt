@@ -1,0 +1,5 @@
+8-dir Pixel Rendered Character 01 — Leapopen.
+Source: https://leapopen.itch.io/8dirprc01
+Downloaded free version 12 October 2026. Perspective: Quarter-view (Isometric), orthographically rendered.
+Commercial/personal game use and modification allowed. No redistribution as standalone assets or asset packs. Attribution appreciated, not required.
+Five base angles, eight facings via horizontal reflection. Free package includes Idle, Walk, Running. Paid combat package was not downloaded.

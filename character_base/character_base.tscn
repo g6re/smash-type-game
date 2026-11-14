@@ -1,0 +1,16 @@
+[gd_scene load_steps=3 format=3]
+[ext_resource type="Script" path="res://game/iso_visual.gd" id="1"]
+[ext_resource type="SpriteFrames" path="res://character_base/animations.tres" id="2"]
+[node name="CharacterBase" type="Node3D"]
+script = ExtResource("1")
+animation_frames = ExtResource("2")
+[node name="AnimatedSprite3D" type="AnimatedSprite3D" parent="."]
+pixel_size = 0.035
+billboard = 1
+texture_filter = 0
+alpha_cut = 1
+shaded = false
+offset = Vector2(0, 31)
+position = Vector3(0, 0.02, 0)
+sprite_frames = ExtResource("2")
+animation = &"idle_8"
